@@ -1,5 +1,5 @@
 ### 항상 예쁜 꿈을 꾸고 스스로가 선택할 수 있는 삶을 꼭 일구는 사람이 되자! 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Welcom!%20)
 <!--
 **LastCarol/LastCarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
