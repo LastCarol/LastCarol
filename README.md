@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </br>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LastCarol&show_icons=true)
   
   
   
